@@ -48,4 +48,4 @@ SMBIOS Information has been cleared, you need to generate one manually.
 - [Pavo](https://github.com/Pavo-IM) for research about AppleMCEReportedDisabler in Monterey
 - [tomnic](https://www.macos86.it/profile/69-tomnic/) for libfakeintel.dylib used by Adobe patches
 - [Dortania](https://github.com/dortania) for OpenCore configuration guides
-- [PCBeta Community](https://bbs.pcbeta.com) for support while making my Hackintosh
+- [PCBeta Community](https://bbs.pcbeta.com) and [AMD-OSX Comunity](https://forum.amd-osx.com/) for support while making my Hackintosh
