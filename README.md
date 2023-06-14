@@ -8,7 +8,7 @@
 | RAM | 16GB (8GB x2) KingBank HeatSink @ 3600MHz |
 | CPU | AMD Ryzen 5 5500 |
 | GPU | ASUSTeK TUF GAMING RX 5600 XT |
-| SSD | Samsung 980 1TB |
+| SSD | Predator SSD GM7 M.2 2TB |
 | Audio Chipset | ALC897 |
 | WiFi & Bluetooth | Intel AX210 |
 | Ethernet | Realtek RTL8111 |
