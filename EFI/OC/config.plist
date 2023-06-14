@@ -1477,7 +1477,7 @@
                     <key>boot-args</key>
                     <string>vsmcgen=1 lilubetaall agdpmod=pikera</string>
                     <key>csr-active-config</key>
-                    <data>AAAAAA==</data>
+                    <data>GQAAAA==</data>
                     <key>prev-lang:kbd</key>
                     <data>emgtSGFuczow</data>
                     <key>run-efi-updater</key>
